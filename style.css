@@ -1,0 +1,80 @@
+body 
+{
+text-align: center;
+}
+
+#start
+{
+position: absolute;
+overflow: hidden;
+height: 200px;
+
+top: 0;
+background: linear-gradient(#eeee7a 0%, #89e289 100%);
+display: table;
+width: 100%;
+z-index: 9;
+}
+
+#Profile
+{
+width: 175px;
+height: 165px;
+border-radius: 90px;
+margin-top: 90px;
+margin-bottom: 90px;
+}
+h1
+{
+color: rgb(2, 2, 2);
+font-size: 50px;
+}
+
+#about
+{
+font-size: 35px;
+margin-left: 300px;
+margin-right: 300px;
+}
+
+#Logo
+{
+width: 100px;
+height: 100px;
+}
+
+#quotes
+{
+font-size: 25px;
+}
+
+#Dad-Me1
+{
+height: 290px;
+width: 300px;
+}
+
+#Dad-Me2
+{
+height: 350px;
+width: 300px;
+}
+
+#Dad-Me3
+{
+height: 300px;
+width: 250px
+}
+
+#Dad-Me4
+{
+height: 350px;
+width: 250px;
+}
+
+#feel
+{
+font-size: 35px;
+margin-left: 300px;
+margin-right: 300px;
+}
